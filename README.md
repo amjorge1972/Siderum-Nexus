@@ -26,4 +26,4 @@ Basically, in this project are used 3D printer parts like steppers, stepper driv
 
 
 
-## [The Electronic Circuit](https://github.com/amjorge1972/Siderum-Nexus/)
+## [Electronics](https://github.com/amjorge1972/Siderum-Nexus/tree/main/electronics)
