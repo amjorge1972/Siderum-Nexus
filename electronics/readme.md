@@ -32,5 +32,7 @@ Bill Of Material (BOM):
 The Siderum Nexus PCB Gerber file can be found at:
 [Here!](https://github.com/amjorge1972/Siderum-Nexus/edit/main/electronics/Siderum-Nexus_PCB_Gerber.zip)
 
+And you can order PCB at: [https://www.jlcpcb.com](https://www.jlcpcb.com)
+
 
  
