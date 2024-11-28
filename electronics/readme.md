@@ -1,5 +1,7 @@
 # Electronics
 
+![](https://github.com/amjorge1972/Siderum-Nexus/blob/main/electronics/img/All.jpg)
+
 Electronics are very simple. The microcontroller is the brain. Drivers are the connection between microcontroller and steppers. And the steppers do the mecanical job. 
 
 The ESP32 MCU (Micro Controller Unit) was chosen because of its capabilities:
@@ -33,6 +35,37 @@ The Siderum Nexus PCB Gerber file can be found at:
 [Here!](https://github.com/amjorge1972/Siderum-Nexus/edit/main/electronics/Siderum-Nexus_PCB_Gerber.zip)
 
 And you can order PCB at: [https://www.jlcpcb.com](https://www.jlcpcb.com)
+
+
+
+
+
+
+ESP32 MCU:
+
+![](https://github.com/amjorge1972/Siderum-Nexus/blob/main/electronics/img/ESP32.jpg)
+
+Stepper Drives:
+
+A4988
+
+![](https://github.com/amjorge1972/Siderum-Nexus/blob/main/electronics/img/A4988.jpg)
+
+DRV8825
+
+![](https://github.com/amjorge1972/Siderum-Nexus/blob/main/electronics/img/DRV8825.jpg)
+
+TMC2208
+
+![](https://github.com/amjorge1972/Siderum-Nexus/blob/main/electronics/img/TMC2208.jpg)
+
+PCB:
+
+![](https://github.com/amjorge1972/Siderum-Nexus/blob/main/electronics/img/PCB2.jpg)
+
+
+
+
 
 
  
