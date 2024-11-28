@@ -29,8 +29,8 @@ Bill Of Material (BOM):
 - 6 x 2.54mm Pitch Single Row Pin Female Header Socket
 - 1 x Siderum Nexus PCB
 
-The Siderum Nexus PCB can be found at:
-[Here!](https://oshwlab.com/amjorge/callidumv2)
+The Siderum Nexus PCB Gerber file can be found at:
+[Here!](https://github.com/amjorge1972/Siderum-Nexus/edit/main/electronics/Siderum-Nexus_PCB_Gerber.zip)
 
 
  
