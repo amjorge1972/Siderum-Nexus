@@ -43,7 +43,6 @@ Bill Of Material (BOM):
 >
 
 
-
 ESP32 MCU:
 
 ![](https://github.com/amjorge1972/Siderum-Nexus/blob/main/electronics/img/ESP32.jpg)
