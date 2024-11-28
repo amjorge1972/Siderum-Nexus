@@ -20,7 +20,10 @@ TMC2208 are very quiet, medium current and 16 microsteps per step. And could rea
 The power supply must be 12 Volts 5 Amps. A L7809CV Voltage Regulator provides 5 Volts 1 Amp power to MCU and drives.
 
 > [!CAUTION]
+> 
 > When continous energized, stepper motors can reach high temperatures like 70ºC and burn your skin.
+> 
+
 
 Bill Of Material (BOM):
 - 1 x ESP32 38 pin Dev Board (U1)
@@ -37,9 +40,7 @@ Bill Of Material (BOM):
 >[!Tip]
 >The Siderum Nexus PCB Gerber file can be found [here!](https://github.com/amjorge1972/Siderum-Nexus/edit/main/electronics/Siderum-Nexus_PCB_Gerber.zip)
 >You can order PCB at [https://www.jlcpcb.com](https://www.jlcpcb.com)
-
-
-
+>
 
 
 
